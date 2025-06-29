@@ -1,0 +1,5 @@
+# Created at 2025-06-29T17:50:36.690
+Boot Manifest-JAR contains absolute paths in classpath 'D:\GIT\Digital-Nurture-4.0-JavaFSE-Deep-Skilling-6406270\Week 2 Learning\Test Driven Development and Logging\Mockito Mock Dependencies Exercises\Mocking a Service Dependency in a Controller Test\Code\controllertestservicedependencymockexample\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

@@ -1,0 +1,4 @@
+23:48:44.145 [com.example.MultiAppenderLoggingExample.main()] DEBUG c.e.MultiAppenderLoggingExample - Debugging application startup
+23:48:44.149 [com.example.MultiAppenderLoggingExample.main()] INFO  c.e.MultiAppenderLoggingExample - Application is running
+23:48:44.150 [com.example.MultiAppenderLoggingExample.main()] WARN  c.e.MultiAppenderLoggingExample - This is a warning message
+23:48:44.151 [com.example.MultiAppenderLoggingExample.main()] ERROR c.e.MultiAppenderLoggingExample - An error occurred while processing the request
